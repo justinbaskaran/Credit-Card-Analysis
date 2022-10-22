@@ -2,7 +2,7 @@
  
 ## Goal:
  
-I want to see if there is a relationship between income level (after taxes), and financial responsibility. To measure financial responsibility we can use the average amount of days a payment was delayed past the due date. (A financially responsible person would pay their debts by the date it's due.)
+I want to see if there is a relationship between income level (after taxes), and financial responsibility. To measure financial responsibility we can use the average amount of days a payment was delayed past the due date.
  
 ## Methodology:
  
